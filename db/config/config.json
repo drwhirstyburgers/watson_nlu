@@ -1,0 +1,19 @@
+{
+  "development": {
+    "username": "drwhirst",
+    "password": "Fraggen8779!",
+    "database": "watsonnlu",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "test": {
+    "username": "drwhirst",
+    "password": "Fraggen8779!",
+    "database": "watsonnlutest",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": false
+  }
+}
+
